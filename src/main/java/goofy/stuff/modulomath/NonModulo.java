@@ -1,4 +1,4 @@
-package goofy.stuff;
+package goofy.stuff.modulomath;
 
 import java.util.ArrayList;
 

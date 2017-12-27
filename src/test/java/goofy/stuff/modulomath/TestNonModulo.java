@@ -1,4 +1,4 @@
-package goofy.stuff;
+package goofy.stuff.modulomath;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
